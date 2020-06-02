@@ -1,0 +1,4 @@
+Git command
+ git add //add changes to the staging area
+ git commit // add changes to local repository
+ git push // push changes to remote repository
