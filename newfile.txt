@@ -6,3 +6,7 @@ Git command
 New changes
  git branch
  git checkout
+ 
+New changes edit from github
+ git merge
+ git fetch
